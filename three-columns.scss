@@ -30,6 +30,8 @@ body{
         max-width: 800px;
         border-radius: 5px;
         overflow: hidden;
+        margin-bottom: 1rem;
+
         img{
             max-width: 20%;
             margin-bottom: 1.5rem;
@@ -118,10 +120,7 @@ body{
     }
 }
 @media (max-width:630px) {
-    body{
-        background-color: pink;
-
-    }
+    
     main{
         display: flex;
         flex-direction: column;
