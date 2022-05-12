@@ -100,10 +100,7 @@ body main section.luxury button:focus {
   }
 }
 @media (max-width: 630px) {
-  body {
-    background-color: pink;
-  }
-
+ 
   main {
     display: flex;
     flex-direction: column;
